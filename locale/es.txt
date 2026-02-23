@@ -1,0 +1,78 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_BF1B7FFC_8BB5_934F_41D7_0E75B8EAB111.url = https://grupoeurosa.com/ar/producto/betc0-2?exhibidor=true
+PopupWebFrameBehaviour_1BC3C772_4D79_7B78_41A3_2A859C8AB03D.url = https://grupoeurosa.com/ar/producto/cl40?color=CL70A?exhibidor=true
+PopupWebFrameBehaviour_AC91E45C_EB34_44E2_41C3_04818F5924C4.url = https://grupoeurosa.com/ar/producto/col-5-400-a?exhibidor=true
+PopupWebFrameBehaviour_A4BCD912_EAD4_4C61_41E4_E43B7B95BC46.url = https://grupoeurosa.com/ar/producto/ecm-900-a?exhibidor=true
+PopupWebFrameBehaviour_C1FB5B21_EAF7_CCA3_41C7_71F80DB9FE36.url = https://grupoeurosa.com/ar/producto/ef-37-n?exhibidor=true
+PopupWebFrameBehaviour_AF41A8F3_EB54_CDA6_41EC_DE8582EF9F05.url = https://grupoeurosa.com/ar/producto/el-28-a
+PopupWebFrameBehaviour_A06D1B68_EAD4_CCA1_41DA_6DB93AA344D3.url = https://grupoeurosa.com/ar/producto/esd-150-a?exhibidor=true
+PopupWebFrameBehaviour_AFC9B7AC_EB7D_C3A2_41C8_5FACC372FD00.url = https://grupoeurosa.com/ar/producto/esl-078-400-b?color=ESL.078.400.B?exhibidor=true
+PopupWebFrameBehaviour_BB17F85E_8BB3_9D4B_4187_00A63C11C661.url = https://grupoeurosa.com/ar/producto/esl-127-400-a?color=ESL.127.400.A?exhibidor=true
+PopupWebFrameBehaviour_AF157378_EB4C_3CA1_41E1_D76A8BDF9B4F.url = https://grupoeurosa.com/ar/producto/esl-178-400-a?color=ESL.178.400.A?exhibidor=true
+PopupWebFrameBehaviour_94F15B75_EACD_CCA3_41B2_9016F2EA9350.url = https://grupoeurosa.com/ar/producto/euro-corner-swing?exhibidor=true
+PopupWebFrameBehaviour_C595040D_EAF4_C463_41D5_51600108B418.url = https://grupoeurosa.com/ar/producto/gmln?exhibidor=true
+PopupWebFrameBehaviour_C6A8FC4A_EAF4_44E1_41E5_C1975D355202.url = https://grupoeurosa.com/ar/producto/gola-superior-led-negro?exhibidor=true
+PopupWebFrameBehaviour_BD532659_EB4C_C4E3_41E8_D7988291D81B.url = https://grupoeurosa.com/ar/producto/mastern?exhibidor=true
+PopupWebFrameBehaviour_1B09C86D_4C8B_F568_41B5_D13E45718DEE.url = https://grupoeurosa.com/ar/producto/moal18n?exhibidor=true
+PopupWebFrameBehaviour_BD53954C_EB5C_C4E2_41CA_E9B50C9F48EB.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN?exhibidor=true
+PopupWebFrameBehaviour_AF01F32B_EB7C_3CA6_41DE_0A254AFA57C6.url = https://grupoeurosa.com/ar/producto/se18?color=SE18A?exhibidor=true
+PopupWebFrameBehaviour_B5A6ED89_EB4C_4463_41E8_CBDB27D86CBE.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA?exhibidor=true
+PopupWebFrameBehaviour_BD0D53C9_EB5C_43E2_419A_A52EC86734B0.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA?exhibidor=true
+PopupWebFrameBehaviour_DF67A804_FFBC_917B_41E4_7071302E0A20.url = https://grupoeurosa.com/ar/producto/sipnb?exhibidor=true
+PopupWebFrameBehaviour_9DAA4757_EACB_C4EF_41C5_70711CB9D352.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_2B4791B5_4F9A_B7F9_41C5_D8155A700207.url = https://grupoeurosa.com/ar/producto/sipnc?exhibidor=true
+PopupWebFrameBehaviour_9EB18D5E_EADC_449E_41E9_D979FA29187E.url = https://grupoeurosa.com/ar/producto/um30?exhibidor=true
+PopupWebFrameBehaviour_BB7F5C17_EAF4_C46E_41ED_4BDB01A2D76F.url = https://grupoeurosa.com/ar/producto/z10?color=Z10N?exhibidor=true
+
+## Media
+
+### Imágen
+imlevel_91966068_8AD3_6D77_41CC_FA27DCA7A287.url = media/panorama_66FF5AB7_4C86_95E7_41D1_052E01DBD8A6_HS_xyew7617_es.webp
+imlevel_851D44E1_8A5D_9A8A_41C8_B97F2F05F9A9.url = media/popup_1115F036_4CBF_B4FB_41BD_02B5A05156BA_es_0_0.webp
+imlevel_851254E1_8A5D_9A8A_41D9_33478A2239F6.url = media/popup_1115F036_4CBF_B4FB_41BD_02B5A05156BA_es_0_1.webp
+imlevel_851244E2_8A5D_9A8E_41C7_31FBF4760FF9.url = media/popup_1115F036_4CBF_B4FB_41BD_02B5A05156BA_es_0_2.webp
+imlevel_AAA700F9_8BB5_AD49_41D6_08088EC4000F.url = media/popup_17257EF0_4C8E_8D78_419D_9A88A82C6CB8_es_0_0.webp
+imlevel_AAA710F9_8BB5_AD49_41D9_86DB503AE588.url = media/popup_17257EF0_4C8E_8D78_419D_9A88A82C6CB8_es_0_1.webp
+imlevel_AAA7E0F9_8BB5_AD49_41D7_AF3FD01C20EF.url = media/popup_17257EF0_4C8E_8D78_419D_9A88A82C6CB8_es_0_2.webp
+imlevel_BF47D2D5_8A5C_AD59_41E0_2DAF56262263.url = media/popup_B9186AFB_8A5C_9D49_41DA_D8109984C567_es_0_0.webp
+imlevel_BF4732D5_8A5C_AD59_418B_6807574CCC5B.url = media/popup_B9186AFB_8A5C_9D49_41DA_D8109984C567_es_0_1.webp
+imlevel_BF4722D5_8A5C_AD59_41E1_5964F3567FEA.url = media/popup_B9186AFB_8A5C_9D49_41DA_D8109984C567_es_0_2.webp
+imlevel_BF5C4260_8A5C_AD77_41C8_0064A52DE505.url = media/popup_BA0AB0F7_8A4C_AD58_41E0_B019E0328777_es_0_0.webp
+imlevel_BF5BB261_8A5C_AD79_41A4_8DE9FA187D7E.url = media/popup_BA0AB0F7_8A4C_AD58_41E0_B019E0328777_es_0_1.webp
+imlevel_BF5BA261_8A5C_AD79_4163_9152E9B57288.url = media/popup_BA0AB0F7_8A4C_AD58_41E0_B019E0328777_es_0_2.webp
+imlevel_BB316480_8BB3_F5B7_418E_BAE2DDAFC028.url = media/popup_BAE2DF3C_8BBC_94CF_41CC_EF52417108C9_es_0_0.webp
+imlevel_BB317480_8BB3_F5B7_41C7_047DEA5BC9FE.url = media/popup_BAE2DF3C_8BBC_94CF_41CC_EF52417108C9_es_0_1.webp
+imlevel_BB310481_8BB3_F5B9_41C9_82EC5AFB9696.url = media/popup_BAE2DF3C_8BBC_94CF_41CC_EF52417108C9_es_0_2.webp
+
+### Popup Imágen
+
+### Título
+panorama_66FF5AB7_4C86_95E7_41D1_052E01DBD8A6.label = SCENE 1
+panorama_681000B6_4CFE_CC63_41CF_22AF73024611.label = SCENE 2
+panorama_95AD8436_8A53_F4DB_41C6_6200A65D33DE.label = SCENE 3
+panorama_D24D36A7_F5F4_C5AF_41EA_A3EE0F87ABE2.label = SCENE 4
+
+## Skin
+
+### Imágen
+Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1.url = skin/Image_1250FECC_4FBE_8DA8_41C9_1794DDFFDBE1_es.png
+Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C.url = skin/Image_13B11A03_4FBF_B498_41B7_7AE25F6A4B6C_es.png
+Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42.url = skin/Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_es.png
+Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile.url = skin/Image_EFBDD4F2_FF5C_929E_41E4_65ED9F0BDF42_mobile_es.png
+Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523.url = skin/Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523_es.png
+Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523_mobile.url = skin/Image_EFFA8317_FF5C_9786_41EA_CD2B73C2A523_mobile_es.png
+Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C.url = skin/Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_es.png
+Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile.url = skin/Image_EFFFE861_FF5C_71BA_41C2_380D93E8193C_mobile_es.png
+Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E.url = skin/Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_es.png
+Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile.url = skin/Image_F0B2A72C_FF5C_BF8A_41E4_AFF7963A744E_mobile_es.png
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = GE COCINA FITECMA EXHIBIDOR
